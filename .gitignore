@@ -36,3 +36,12 @@ src/bwwool.ts
 
 # Node
 node_modules/
+*.user
+*.filters
+*.vcxproj
+*.sln
+*.opendb
+*.db-wal
+*.db-shm
+*.db
+.vs/BWAPI-C++/v16/.suo
